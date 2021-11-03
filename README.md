@@ -19,6 +19,7 @@ php artisan serve
 ```
 veya 
 ```sh
+composer install
 php artisan app:reset
 ```
 
