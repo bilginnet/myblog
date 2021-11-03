@@ -24,7 +24,7 @@ php artisan app:reset
 php artisan serve
 ```
 
-## UYGULAMA HAKKINDA
+## Uygulama Hakkında
 
 1. Rol Yönetici: Admin sayfasına girebilir ve tüm makaleyi listeler. Her makaleyi silebilir.
 2. Rol Moderatör: Admin sayfasına girebilir ve tüm makaleyi listeler. Kendi makalesini silebilir.
