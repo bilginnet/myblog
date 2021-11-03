@@ -21,6 +21,7 @@ veya
 ```sh
 composer install
 php artisan app:reset
+php artisan serve
 ```
 
 ## UYGULAMA HAKKINDA
